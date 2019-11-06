@@ -1,4 +1,4 @@
-Class: Booth
+**Class: Table**
 
 *Attributes:*
 * maxOccupancy: (integer)
