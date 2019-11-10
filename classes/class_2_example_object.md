@@ -9,5 +9,5 @@
 *Results of applied methods:*
 * dimLight: brightness = 3
 * turnOff: isOn = false
-* displayLocation: location = "Bathroom"
+* moveLight("Entrance"): location = "Entrance"
 * replaceLight: isFlickering = false

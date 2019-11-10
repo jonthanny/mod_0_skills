@@ -10,5 +10,5 @@
 *Results of applied methods:*
 * addGuest: currentOccupancy = 1
 * wipeTable: isClean = true
-* displaySectionOwner: waitressSection = "Jenny"
+* changeSectionOwner("Maxine"): waitressSection = "Maxine"
 * kickGuestOut: currentOccupancy = 0

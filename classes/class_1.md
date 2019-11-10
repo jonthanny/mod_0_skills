@@ -10,5 +10,5 @@
 *Methods:*
 * addGuest (increases currentOccupancy attribute by 1)
 * wipeTable (changes isClean attribute to true)
-* displaySectionOwner (displays the string of the waitressSection attribute)
+* changeSectionOwner (changes the string of the waitressSection attribute)
 * kickGuestOut (decreases the currentOccupancy attribute by 1)
